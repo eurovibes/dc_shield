@@ -1,0 +1,16 @@
+# KiCad 
+*.bak
+*.bck
+*cache.lib 
+*.kicad_pcb-bak
+*.lck
+*.sch-bak
+*-backups/
+
+dc_shield.net
+fp-info-cache
+
+# other backup files
+*~
+\#*#
+
