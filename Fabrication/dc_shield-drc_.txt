@@ -1,0 +1,10 @@
+** Drc report for dc_shield.kicad_pcb **
+** Created on 2024-07-01T12:38:46+0000 **
+
+** Found 0 DRC violations **
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
