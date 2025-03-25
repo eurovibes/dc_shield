@@ -8112,7 +8112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "Samsung Electro-Mechanics"
+		(property "Manufacture" "YAGEO"
 			(at 228.6 148.59 0)
 			(effects
 				(font
@@ -8139,7 +8139,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/1943-CL10B104KB8NNNC/C1591"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 228.6 148.59 0)
 			(effects
 				(font
@@ -8166,7 +8166,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "CL10B104KB8NNNC"
+		(property "mpn" "CC0603KRX7R9BB104"
 			(at 228.6 148.59 0)
 			(effects
 				(font
@@ -8184,7 +8184,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C1591"
+		(property "LCSC#" "C14663"
 			(at 228.6 148.59 0)
 			(effects
 				(font
@@ -8263,7 +8263,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C319934"
+		(property "LCSC#" "C25744"
 			(at 127 158.75 0)
 			(effects
 				(font
@@ -8272,7 +8272,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "Viking Tech"
+		(property "Manufacture" "UNI-ROYAL(Uniroyal Elec)"
 			(at 127 158.75 0)
 			(effects
 				(font
@@ -8299,7 +8299,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/VikingTech-AR02DTC1002/C319934"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744"
 			(at 127 158.75 0)
 			(effects
 				(font
@@ -8317,7 +8317,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "AR02DTC1002"
+		(property "mpn" "0402WGF1002TCE"
 			(at 127 158.75 0)
 			(effects
 				(font
@@ -8581,7 +8581,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C319934"
+		(property "LCSC#" "C25744"
 			(at 236.22 39.37 0)
 			(effects
 				(font
@@ -8590,7 +8590,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "Viking Tech"
+		(property "Manufacture" "UNI-ROYAL(Uniroyal Elec)"
 			(at 236.22 39.37 0)
 			(effects
 				(font
@@ -8617,7 +8617,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/VikingTech-AR02DTC1002/C319934"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744"
 			(at 236.22 39.37 0)
 			(effects
 				(font
@@ -8635,7 +8635,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "AR02DTC1002"
+		(property "mpn" "0402WGF1002TCE"
 			(at 236.22 39.37 0)
 			(effects
 				(font
@@ -9217,7 +9217,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" " 0402WGF2001TCE"
+		(property "mpn" "0402WGF2001TCE"
 			(at 229.87 93.98 0)
 			(effects
 				(font
@@ -9558,7 +9558,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "TDK"
+		(property "Manufacture" "Samsung Electro-Mechanics"
 			(at 254 148.59 0)
 			(effects
 				(font
@@ -9585,7 +9585,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/Tdk-C3216X5R1H106KT000N/C329928"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/14236-CL31A106KBHNNNE/C13585"
 			(at 254 148.59 0)
 			(effects
 				(font
@@ -9612,7 +9612,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "C3216X5R1H106KT000N"
+		(property "mpn" "CL31A106KBHNNNE"
 			(at 254 148.59 0)
 			(effects
 				(font
@@ -9630,7 +9630,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C329928"
+		(property "LCSC#" "C13585"
 			(at 254 148.59 0)
 			(effects
 				(font
@@ -9907,7 +9907,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "TDK"
+		(property "Manufacture" "Samsung Electro-Mechanics"
 			(at 215.9 148.59 0)
 			(effects
 				(font
@@ -9934,7 +9934,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/Tdk-C3216X5R1H106KT000N/C329928"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/14236-CL31A106KBHNNNE/C13585"
 			(at 215.9 148.59 0)
 			(effects
 				(font
@@ -9961,7 +9961,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "C3216X5R1H106KT000N"
+		(property "mpn" "CL31A106KBHNNNE"
 			(at 215.9 148.59 0)
 			(effects
 				(font
@@ -9979,7 +9979,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C329928"
+		(property "LCSC#" "C13585"
 			(at 215.9 148.59 0)
 			(effects
 				(font
@@ -10313,7 +10313,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C329928"
+		(property "LCSC#" "C13585"
 			(at 104.14 110.49 0)
 			(effects
 				(font
@@ -10322,7 +10322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "TDK"
+		(property "Manufacture" "Samsung Electro-Mechanics"
 			(at 104.14 110.49 0)
 			(effects
 				(font
@@ -10340,7 +10340,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/Tdk-C3216X5R1H106KT000N/C329928"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/14236-CL31A106KBHNNNE/C13585"
 			(at 104.14 110.49 0)
 			(effects
 				(font
@@ -10358,7 +10358,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "C3216X5R1H106KT000N"
+		(property "mpn" "CL31A106KBHNNNE"
 			(at 104.14 110.49 0)
 			(effects
 				(font
@@ -10502,7 +10502,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" " ACS712ELCTR-20A-T"
+		(property "mpn" "ACS712ELCTR-20A-T"
 			(at 203.2 93.98 0)
 			(effects
 				(font
@@ -10793,7 +10793,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C106222"
+		(property "LCSC#" "C21122"
 			(at 185.42 59.69 0)
 			(effects
 				(font
@@ -10802,7 +10802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "YAGEO"
+		(property "Manufacture" "Samsung Electro-Mechanics"
 			(at 185.42 59.69 0)
 			(effects
 				(font
@@ -10820,7 +10820,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB223/C106222"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/21834-CL10B223KB8NNNC/C21122"
 			(at 185.42 59.69 0)
 			(effects
 				(font
@@ -10838,7 +10838,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "CC0603KRX7R9BB223"
+		(property "mpn" "CL10B223KB8NNNC"
 			(at 185.42 59.69 0)
 			(effects
 				(font
@@ -11140,7 +11140,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" " 0402WGF2001TCE"
+		(property "mpn" "0402WGF2001TCE"
 			(at 229.87 30.48 0)
 			(effects
 				(font
@@ -11416,7 +11416,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C106222"
+		(property "LCSC#" "C21122"
 			(at 198.12 59.69 0)
 			(effects
 				(font
@@ -11425,7 +11425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "YAGEO"
+		(property "Manufacture" "Samsung Electro-Mechanics"
 			(at 198.12 59.69 0)
 			(effects
 				(font
@@ -11443,7 +11443,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB223/C106222"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/21834-CL10B223KB8NNNC/C21122"
 			(at 198.12 59.69 0)
 			(effects
 				(font
@@ -11461,7 +11461,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "CC0603KRX7R9BB223"
+		(property "mpn" "CL10B223KB8NNNC"
 			(at 198.12 59.69 0)
 			(effects
 				(font
@@ -11549,7 +11549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "Samsung Electro-Mechanics"
+		(property "Manufacture" "YAGEO"
 			(at 266.7 148.59 0)
 			(effects
 				(font
@@ -11576,7 +11576,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/1943-CL10B104KB8NNNC/C1591"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 266.7 148.59 0)
 			(effects
 				(font
@@ -11603,7 +11603,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "CL10B104KB8NNNC"
+		(property "mpn" "CC0603KRX7R9BB104"
 			(at 266.7 148.59 0)
 			(effects
 				(font
@@ -11621,7 +11621,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C1591"
+		(property "LCSC#" "C14663"
 			(at 266.7 148.59 0)
 			(effects
 				(font
@@ -11764,7 +11764,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "ROQANG"
+		(property "Manufacture" "Lelon"
 			(at 203.2 148.59 0)
 			(effects
 				(font
@@ -11791,7 +11791,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/Roqang-CS1H331MCRG10/C5162354"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/Lelon-VZT331M1HTR1010/C249985"
 			(at 203.2 148.59 0)
 			(effects
 				(font
@@ -11818,7 +11818,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "CS1H331M-CRG10"
+		(property "mpn" "VZT331M1HTR-1010"
 			(at 203.2 148.59 0)
 			(effects
 				(font
@@ -11836,7 +11836,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C5162354"
+		(property "LCSC#" "C249985"
 			(at 203.2 148.59 0)
 			(effects
 				(font
@@ -12462,7 +12462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "FH (Guangdong Fenghua Advanced Tech)"
+		(property "Manufacture" "Samsung Electro-Mechanics"
 			(at 63.5 158.75 0)
 			(effects
 				(font
@@ -12489,7 +12489,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/109562-0603F105M500NT/C108343"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
 			(at 63.5 158.75 0)
 			(effects
 				(font
@@ -12516,7 +12516,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "0603F105M500NT"
+		(property "mpn" "CL10A105KB8NNNC"
 			(at 63.5 158.75 0)
 			(effects
 				(font
@@ -12534,7 +12534,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C108343"
+		(property "LCSC#" "C15849"
 			(at 63.5 158.75 0)
 			(effects
 				(font
@@ -12942,7 +12942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "Samsung Electro-Mechanics"
+		(property "Manufacture" "YAGEO"
 			(at 248.92 39.37 0)
 			(effects
 				(font
@@ -12969,7 +12969,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/1943-CL10B104KB8NNNC/C1591"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 248.92 39.37 0)
 			(effects
 				(font
@@ -12996,7 +12996,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "CL10B104KB8NNNC"
+		(property "mpn" "CC0603KRX7R9BB104"
 			(at 248.92 39.37 0)
 			(effects
 				(font
@@ -13014,7 +13014,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C1591"
+		(property "LCSC#" "C14663"
 			(at 248.92 39.37 0)
 			(effects
 				(font
@@ -13370,7 +13370,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1R1"
+		(property "Value" "1"
 			(at 66.04 170.18 0)
 			(effects
 				(font
@@ -13406,7 +13406,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "Walsin Tech Corp"
+		(property "Manufacture" "UNI-ROYAL(Uniroyal Elec)"
 			(at 63.5 168.91 0)
 			(effects
 				(font
@@ -13433,7 +13433,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/Walsin_TechCorp-WR12W1R10FTL/C168518"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/18616-1206W4F100KT5E/C17928"
 			(at 63.5 168.91 0)
 			(effects
 				(font
@@ -13460,7 +13460,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "WR12W1R10FTL"
+		(property "mpn" "1206W4F100KT5E"
 			(at 63.5 168.91 0)
 			(effects
 				(font
@@ -13478,7 +13478,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C168518"
+		(property "LCSC#" "C17928"
 			(at 63.5 168.91 0)
 			(effects
 				(font
@@ -14530,7 +14530,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C319934"
+		(property "LCSC#" "C25744"
 			(at 236.22 102.87 0)
 			(effects
 				(font
@@ -14539,7 +14539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "Viking Tech"
+		(property "Manufacture" "UNI-ROYAL(Uniroyal Elec)"
 			(at 236.22 102.87 0)
 			(effects
 				(font
@@ -14566,7 +14566,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/VikingTech-AR02DTC1002/C319934"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744"
 			(at 236.22 102.87 0)
 			(effects
 				(font
@@ -14584,7 +14584,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "AR02DTC1002"
+		(property "mpn" "0402WGF1002TCE"
 			(at 236.22 102.87 0)
 			(effects
 				(font
@@ -14987,7 +14987,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" " ACS712ELCTR-20A-T"
+		(property "mpn" "ACS712ELCTR-20A-T"
 			(at 203.2 30.48 0)
 			(effects
 				(font
@@ -15084,7 +15084,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C106222"
+		(property "LCSC#" "C21122"
 			(at 198.12 123.19 0)
 			(effects
 				(font
@@ -15093,7 +15093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "YAGEO"
+		(property "Manufacture" "Samsung Electro-Mechanics"
 			(at 198.12 123.19 0)
 			(effects
 				(font
@@ -15111,7 +15111,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB223/C106222"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/21834-CL10B223KB8NNNC/C21122"
 			(at 198.12 123.19 0)
 			(effects
 				(font
@@ -15129,7 +15129,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "CC0603KRX7R9BB223"
+		(property "mpn" "CL10B223KB8NNNC"
 			(at 198.12 123.19 0)
 			(effects
 				(font
@@ -15519,7 +15519,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C319934"
+		(property "LCSC#" "C25744"
 			(at 52.07 123.19 0)
 			(effects
 				(font
@@ -15528,7 +15528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "Viking Tech"
+		(property "Manufacture" "UNI-ROYAL(Uniroyal Elec)"
 			(at 52.07 123.19 0)
 			(effects
 				(font
@@ -15555,7 +15555,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/VikingTech-AR02DTC1002/C319934"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744"
 			(at 52.07 123.19 0)
 			(effects
 				(font
@@ -15573,7 +15573,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "AR02DTC1002"
+		(property "mpn" "0402WGF1002TCE"
 			(at 52.07 123.19 0)
 			(effects
 				(font
@@ -15652,7 +15652,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C106222"
+		(property "LCSC#" "C21122"
 			(at 185.42 123.19 0)
 			(effects
 				(font
@@ -15661,7 +15661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "YAGEO"
+		(property "Manufacture" "Samsung Electro-Mechanics"
 			(at 185.42 123.19 0)
 			(effects
 				(font
@@ -15679,7 +15679,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB223/C106222"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/21834-CL10B223KB8NNNC/C21122"
 			(at 185.42 123.19 0)
 			(effects
 				(font
@@ -15697,7 +15697,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "CC0603KRX7R9BB223"
+		(property "mpn" "CL10B223KB8NNNC"
 			(at 185.42 123.19 0)
 			(effects
 				(font
@@ -15848,7 +15848,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C329928"
+		(property "LCSC#" "C13585"
 			(at 91.44 110.49 0)
 			(effects
 				(font
@@ -15857,7 +15857,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "TDK"
+		(property "Manufacture" "Samsung Electro-Mechanics"
 			(at 91.44 110.49 0)
 			(effects
 				(font
@@ -15875,7 +15875,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/Tdk-C3216X5R1H106KT000N/C329928"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/14236-CL31A106KBHNNNE/C13585"
 			(at 91.44 110.49 0)
 			(effects
 				(font
@@ -15893,7 +15893,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "C3216X5R1H106KT000N"
+		(property "mpn" "CL31A106KBHNNNE"
 			(at 91.44 110.49 0)
 			(effects
 				(font
@@ -16046,7 +16046,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C329928"
+		(property "LCSC#" "C13585"
 			(at 71.12 110.49 0)
 			(effects
 				(font
@@ -16055,7 +16055,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "TDK"
+		(property "Manufacture" "Samsung Electro-Mechanics"
 			(at 71.12 110.49 0)
 			(effects
 				(font
@@ -16073,7 +16073,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/Tdk-C3216X5R1H106KT000N/C329928"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/14236-CL31A106KBHNNNE/C13585"
 			(at 71.12 110.49 0)
 			(effects
 				(font
@@ -16091,7 +16091,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "C3216X5R1H106KT000N"
+		(property "mpn" "CL31A106KBHNNNE"
 			(at 71.12 110.49 0)
 			(effects
 				(font
@@ -16377,7 +16377,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "ROQANG"
+		(property "Manufacture" "Lelon"
 			(at 241.3 148.59 0)
 			(effects
 				(font
@@ -16404,7 +16404,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/Roqang-CS1H331MCRG10/C5162354"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/Lelon-VZT331M1HTR1010/C249985"
 			(at 241.3 148.59 0)
 			(effects
 				(font
@@ -16431,7 +16431,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "CS1H331M-CRG10"
+		(property "mpn" "VZT331M1HTR-1010"
 			(at 241.3 148.59 0)
 			(effects
 				(font
@@ -16449,7 +16449,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C5162354"
+		(property "LCSC#" "C249985"
 			(at 241.3 148.59 0)
 			(effects
 				(font
@@ -16727,7 +16727,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacture" "Samsung Electro-Mechanics"
+		(property "Manufacture" "YAGEO"
 			(at 248.92 102.87 0)
 			(effects
 				(font
@@ -16754,7 +16754,7 @@
 				(hide yes)
 			)
 		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/1943-CL10B104KB8NNNC/C1591"
+		(property "SupplLink" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 248.92 102.87 0)
 			(effects
 				(font
@@ -16781,7 +16781,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "CL10B104KB8NNNC"
+		(property "mpn" "CC0603KRX7R9BB104"
 			(at 248.92 102.87 0)
 			(effects
 				(font
@@ -16799,7 +16799,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C1591"
+		(property "LCSC#" "C14663"
 			(at 248.92 102.87 0)
 			(effects
 				(font
