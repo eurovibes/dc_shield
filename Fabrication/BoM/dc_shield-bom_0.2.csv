@@ -1,0 +1,42 @@
+Row,References,Part,Value,P/N,Manufacture,Source,Supplier P/N,Link,Footprint,Description,Quantity Per PCB
+1,C115 C116,C,1 nF,CL10B102KB8NNNC,Samsung Electro-Mechanics,JLCPCB,,https://jlcpcb.com/partdetail/1940-CL10B102KB8NNNC/C1588,C_0603_1608Metric,Unpolarized capacitor,2
+2,C103 C104 C105 C106,C,22 nF,CC0603KRX7R9BB223,YAGEO,JLCPCB,,https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB223/C106222,C_0603_1608Metric,Unpolarized capacitor,4
+3,C109 C112 C117 C118,C,100 nF,CL10B104KB8NNNC,Samsung Electro-Mechanics,JLCPCB,,https://jlcpcb.com/partdetail/1943-CL10B104KB8NNNC/C1591,C_0603_1608Metric,Unpolarized capacitor,4
+4,C101,C,1 µF,0603F105M500NT,FH (Guangdong Fenghua Advanced Tech),JLCPCB,,https://jlcpcb.com/partdetail/109562-0603F105M500NT/C108343,C_0603_1608Metric,Unpolarized capacitor,1
+5,C102 C108 C111 C113 C114,C,10 µF,C3216X5R1H106KT000N,TDK,JLCPCB,,https://jlcpcb.com/partdetail/Tdk-C3216X5R1H106KT000N/C329928,C_1206_3216Metric,Unpolarized capacitor,5
+6,C107 C110,C_Polarized,330 µF,CS1H331M-CRG10,ROQANG,JLCPCB,,https://jlcpcb.com/partdetail/Roqang-CS1H331MCRG10/C5162354,CP_Elec_10x10.5,Polarized capacitor,2
+7,D104 D105,1N4448W,1N4448W,1N4448W,Guangdong Hottech,JLCPCB,,https://jlcpcb.com/partdetail/GuangdongHottech-1N4448W/C5190208,D_SOD-123,"100V 0.15A High-speed standard diode, SOD-123",2
+8,D101,SMAJ24CA,SMAJ24CA,SMAJ24CA,"UMW(Youtai Semiconductor Co., Ltd.)",JLCPCB,,https://jlcpcb.com/partdetail/3486668-SMAJ24CA/C3001961,D_SMA,"400W bidirectional Transient Voltage Suppressor, 24.0Vr, SMA(DO-214AC)",1
+9,D102,D_Zener,SMBJ5344B,SMBJ5344B,LGE,JLCPCB,,https://jlcpcb.com/partdetail/Lge-SMBJ5344B/C2903883,D_SMB,Zener diode,1
+10,D103,D_Schottky,SS210,SS210,MDD,JLCPCB,,https://jlcpcb.com/partdetail/Mdd-SS210/C14996,D_SMA,Schottky diode,1
+11,J103,Conn_01x06,Analog,PRT-11417,SparkFun Electronics,Digikey,1568-1413-ND,https://www.digikey.de/de/products/detail/sparkfun-electronics/PRT-11417/6161755,PinSocket_1x06_P2.54mm_Vertical,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",1
+12,J104,Conn_01x10,Digital/PWM,PRT-11417,SparkFun Electronics,Digikey,1568-1413-ND,https://www.digikey.de/de/products/detail/sparkfun-electronics/PRT-11417/6161755,PinSocket_1x10_P2.54mm_Vertical,"Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",1
+13,J102 J105,Conn_01x08,Power,PRT-11417,SparkFun Electronics,Digikey,1568-1413-ND,https://www.digikey.de/de/products/detail/sparkfun-electronics/PRT-11417/6161755,PinSocket_1x08_P2.54mm_Vertical,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",2
+14,J101 J106 J107,Conn_01x02,Vdrive,236-402,WAGO Corporation,Digikey,2946-236-402-ND,https://www.digikey.de/de/products/detail/wago-corporation/236-402/15573417,TerminalBlock_WAGO_236-402_1x02_P5.00mm_45Degree,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",3
+15,JP101,Jumper_2_Bridged,enable,N/A,N/A,~,,~,SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,"Jumper, 2-pole, closed/bridged",1
+16,MH1 MH2 MH3 MH4,MountingHole_3.2mm,MountingHole_3.2mm,,,,,,MountingHole_3.2mm,,4
+17,Q101,SUD50P06-15,SUD50P06-15,SUD50P06-15-GE3,Vishay Intertech,JLCPCB,,https://jlcpcb.com/partdetail/VishayIntertech-SUD50P06_15GE3/C141584,TO-252-2,"-50A Id, -60V Vds, TrenchFET P-Channel Power MOSFET, 15mOhm Ron, 165nC Qg, -55 to 150 °C, TO-252-2",1
+18,R102,R,1.1 Ω,WR12W1R10FTL,Walsin Tech Corp,JLCPCB,,https://jlcpcb.com/partdetail/Walsin_TechCorp-WR12W1R10FTL/C168518,R_1206_3216Metric,Resistor,1
+19,R106 R107,R,2 kΩ,0402WGF2001TCE,UNI-ROYAL(Uniroyal Elec),JLCPCB,,https://jlcpcb.com/partdetail/4516-0402WGF2001TCE/C4109,R_0402_1005Metric,Resistor,2
+20,R101 R103 R104 R105,R,10 kΩ,AR02DTC1002,Viking Tech,JLCPCB,,https://jlcpcb.com/partdetail/VikingTech-AR02DTC1002/C319934,R_0402_1005Metric,Resistor,4
+21,U105 U106,ACS712xLCTR-05B,ACS712ELCTR-05B,ACS712ELCTR-05B-T,"Allegro MicroSystems, LLC",JLCPCB,,https://jlcpcb.com/partdetail/45473-ACS712ELCTR_05BT/C44471,SOIC-8_3.9x4.9mm_P1.27mm,"±5A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 185mV/A, SOIC-8",2
+22,U102,AT24CS64-SSHM,AT24C256C-SSHL-T,AT24C256C-SSHL-T,Microchip Tech,JLCPCB,,https://jlcpcb.com/partdetail/MicrochipTech-AT24C256C_SSHLT/C6482,SOIC-8_3.9x4.9mm_P1.27mm,"I2C Serial EEPROM, 64Kb (8192x8) with Unique Serial Number, SO8",1
+23,U103 U104,IFX9201SGAUMA1,IFX9201SGAUMA1,IFX9201SGAUMA1,Infineon Technologies,JLCPCB,,https://jlcpcb.com/partdetail/InfineonTechnologies-IFX9201SGAUMA1/C112633,CONV_IFX9201SGAUMA1,,2
+24,U101,R-78C12-1.0,VR10S12,VR10S12,XP Power,Digikey,1470-VR10S12-ND,https://www.digikey.de/de/products/detail/xp-power/VR10S12/13147701,Converter_DCDC_RECOM_R-78E-0.5_THT,"1A Step-Down DC/DC-Regulator, 15-42V input, 12V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3",1
+
+
+
+
+
+Project info:
+Schematic:,dc_shield
+Variant:,default
+Revision:,0.2
+Date:,2025-03-25
+KiCad Version:,8.0.8+1
+Statistics:
+Component Groups:,24
+Component Count:,49
+Fitted Components:,49
+Number of PCBs:,1
+Total Components:,49

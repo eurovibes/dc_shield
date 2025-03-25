@@ -1,5 +1,5 @@
 Drill report for dc_shield.kicad_pcb
-Created on 2024-07-01T12:39:06+0000
+Created on 2025-03-25T13:32:56+0000
 
 Copper Layer Stackup:
     =============================================================
@@ -12,11 +12,11 @@ Copper Layer Stackup:
 Drill file 'dc_shield-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0.400mm  0.0157"  (30 holes)
+    T1  0.400mm  0.0157"  (51 holes)
     T2  1.000mm  0.0394"  (35 holes)
     T3  1.150mm  0.0453"  (12 holes)
 
-    Total plated holes count 77
+    Total plated holes count 98
 
 
 Drill file 'dc_shield-NPTH.drl' contains
