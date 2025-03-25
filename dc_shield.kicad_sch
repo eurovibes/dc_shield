@@ -3219,7 +3219,7 @@
 				)
 			)
 		)
-		(symbol "Sensor_Current:ACS712xLCTR-05B"
+		(symbol "Sensor_Current:ACS712xLCTR-20A"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3232,7 +3232,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "ACS712xLCTR-05B"
+			(property "Value" "ACS712xLCTR-20A"
 				(at 2.54 8.89 0)
 				(effects
 					(font
@@ -3261,7 +3261,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "±5A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 185mV/A, SOIC-8"
+			(property "Description" "±20A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 100mV/A, SOIC-8"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3288,7 +3288,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "ACS712xLCTR-05B_0_1"
+			(symbol "ACS712xLCTR-20A_0_1"
 				(rectangle
 					(start -7.62 7.62)
 					(end 7.62 -7.62)
@@ -3301,7 +3301,7 @@
 					)
 				)
 			)
-			(symbol "ACS712xLCTR-05B_1_1"
+			(symbol "ACS712xLCTR-20A_1_1"
 				(pin passive line
 					(at -10.16 5.08 0)
 					(length 2.54)
@@ -10392,6 +10392,159 @@
 		)
 	)
 	(symbol
+		(lib_id "Sensor_Current:ACS712xLCTR-20A")
+		(at 203.2 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "54c70f88-123c-4e83-a8b8-cb426c268051")
+		(property "Reference" "U106"
+			(at 205.3941 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ACS712ELCTR-20A"
+			(at 205.3941 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 205.74 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx?la=en"
+			(at 203.2 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "±20A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 100mV/A, SOIC-8"
+			(at 203.2 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C10681"
+			(at 203.2 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacture" "Allegro MicroSystems, LLC"
+			(at 203.2 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PackageID" "SOIC-8"
+			(at 203.2 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source" "JLCPCB"
+			(at 203.2 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SupplLink" "https://jlcpcb.com/partdetail/11225-ACS712ELCTR_20AT/C10681"
+			(at 203.2 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "assemble" "y"
+			(at 203.2 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" " ACS712ELCTR-20A-T"
+			(at 203.2 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "5c9b64e4-a110-488d-8ca0-4d401ff1efe3")
+		)
+		(pin "6"
+			(uuid "d26e1a9d-5927-415b-91b2-588701b235ce")
+		)
+		(pin "3"
+			(uuid "c7404404-c8e4-451e-bb5b-e01b7ddc356c")
+		)
+		(pin "2"
+			(uuid "3b0fa0ae-466f-44ad-8c5f-e086c58d1494")
+		)
+		(pin "1"
+			(uuid "f9bb0a6a-f2e5-42c6-8389-393920f87527")
+		)
+		(pin "5"
+			(uuid "602451e5-5fd2-4b14-a65c-28d6f7853aed")
+		)
+		(pin "7"
+			(uuid "c5394220-b31c-4c54-a745-eae28b40790f")
+		)
+		(pin "4"
+			(uuid "2276a27a-f193-4f63-b519-19c4aa1030b3")
+		)
+		(instances
+			(project "dc_shield"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "U106")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 71.12 116.84 0)
 		(unit 1)
@@ -13565,159 +13718,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensor_Current:ACS712xLCTR-05B")
-		(at 203.2 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ac50e15c-0573-4270-ae7c-09d86fca379c")
-		(property "Reference" "U106"
-			(at 205.3941 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ACS712ELCTR-05B"
-			(at 205.3941 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 205.74 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx?la=en"
-			(at 203.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "±5A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 185mV/A, SOIC-8"
-			(at 203.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC#" "C44471"
-			(at 203.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacture" "Allegro MicroSystems, LLC"
-			(at 203.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PackageID" "SOIC-8"
-			(at 203.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "JLCPCB"
-			(at 203.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/45473-ACS712ELCTR_05BT/C44471"
-			(at 203.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "assemble" "y"
-			(at 203.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "mpn" "ACS712ELCTR-05B-T"
-			(at 203.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "7"
-			(uuid "55fc6b5b-7ba0-40fc-955a-9a45b9f8d4f7")
-		)
-		(pin "4"
-			(uuid "2e3ea786-9f80-4d8d-8f15-265eb1f299ce")
-		)
-		(pin "6"
-			(uuid "8b55fa3c-2512-4b99-935b-c6cd8b122007")
-		)
-		(pin "8"
-			(uuid "ccbef79d-91a4-4fb0-bcf2-fb3f72ce3a13")
-		)
-		(pin "1"
-			(uuid "c591d67b-7281-4127-9bf6-4f5049bf6ace")
-		)
-		(pin "3"
-			(uuid "3179a054-148e-40f2-83d8-1642bf99e732")
-		)
-		(pin "5"
-			(uuid "32ec2380-1978-4d1a-87e5-345626a83ee6")
-		)
-		(pin "2"
-			(uuid "2b4f38fc-9126-4f58-9a01-2e7ef04a6bf3")
-		)
-		(instances
-			(project "dc_shield"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "U106")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
 		(at 212.09 114.3 0)
 		(unit 1)
@@ -14609,159 +14609,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensor_Current:ACS712xLCTR-05B")
-		(at 203.2 30.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c43d44e0-6f2d-4d5a-995c-2e76e83b1687")
-		(property "Reference" "U105"
-			(at 205.3941 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ACS712ELCTR-05B"
-			(at 205.3941 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 205.74 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx?la=en"
-			(at 203.2 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "±5A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 185mV/A, SOIC-8"
-			(at 203.2 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC#" "C44471"
-			(at 203.2 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacture" "Allegro MicroSystems, LLC"
-			(at 203.2 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PackageID" "SOIC-8"
-			(at 203.2 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "JLCPCB"
-			(at 203.2 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SupplLink" "https://jlcpcb.com/partdetail/45473-ACS712ELCTR_05BT/C44471"
-			(at 203.2 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "assemble" "y"
-			(at 203.2 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "mpn" "ACS712ELCTR-05B-T"
-			(at 203.2 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "7"
-			(uuid "2869e089-9f24-4513-a42c-22c3bc0e8e93")
-		)
-		(pin "4"
-			(uuid "db2dda81-ede4-49b8-8aa5-84a35c870db6")
-		)
-		(pin "6"
-			(uuid "9a9f284f-dd8e-4c3e-846e-b16369f9e3c6")
-		)
-		(pin "8"
-			(uuid "0aa7cd42-4709-48b5-ab2f-afe6ee46d9a2")
-		)
-		(pin "1"
-			(uuid "66d1659a-c017-4921-a5d1-8be0449b91bb")
-		)
-		(pin "3"
-			(uuid "febc952d-cc45-4166-b453-bb8bce3e868f")
-		)
-		(pin "5"
-			(uuid "70c8e8f8-4bfb-4eb3-89d1-253068c347cc")
-		)
-		(pin "2"
-			(uuid "efde93fd-50f6-4f06-9fda-53a8661b130f")
-		)
-		(instances
-			(project ""
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "U105")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Regulator_Switching:R-78C12-1.0")
 		(at 81.28 104.14 0)
 		(unit 1)
@@ -15024,6 +14871,159 @@
 			(project "dc_shield"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR0106")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Sensor_Current:ACS712xLCTR-20A")
+		(at 203.2 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cacbdf60-15a1-452d-9131-499f80d7c5f5")
+		(property "Reference" "U105"
+			(at 205.3941 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ACS712ELCTR-20A"
+			(at 205.3941 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 205.74 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx?la=en"
+			(at 203.2 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "±20A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 100mV/A, SOIC-8"
+			(at 203.2 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C10681"
+			(at 203.2 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacture" "Allegro MicroSystems, LLC"
+			(at 203.2 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PackageID" "SOIC-8"
+			(at 203.2 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source" "JLCPCB"
+			(at 203.2 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SupplLink" "https://jlcpcb.com/partdetail/11225-ACS712ELCTR_20AT/C10681"
+			(at 203.2 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "assemble" "y"
+			(at 203.2 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" " ACS712ELCTR-20A-T"
+			(at 203.2 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "25572de2-e146-4933-a06f-23e6cd72dc80")
+		)
+		(pin "6"
+			(uuid "5b575dcf-9e8d-4f21-8717-926d0f219652")
+		)
+		(pin "3"
+			(uuid "7164c2b9-bd1e-4e76-a7b9-1e0a07e19d2e")
+		)
+		(pin "2"
+			(uuid "27bfee98-ba19-401d-873f-d3e7487b0d80")
+		)
+		(pin "1"
+			(uuid "5550786e-6a62-42b1-9f84-8f70c6e4d8f1")
+		)
+		(pin "5"
+			(uuid "90130c6c-e295-422d-a642-37ae8aa8a15b")
+		)
+		(pin "7"
+			(uuid "1612d5c2-5f5c-48bb-a622-a5291d68b605")
+		)
+		(pin "4"
+			(uuid "b457d728-3168-4cab-adbb-9425ad6cbd59")
+		)
+		(instances
+			(project ""
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "U105")
 					(unit 1)
 				)
 			)
